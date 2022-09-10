@@ -21,13 +21,12 @@ This is a simple Python language snake game.
 
 ## Demo 
 * ***Snake moves in four directions***
-<p><img align ="right" trsc ="https://github.com/nguyenvietlam0640/gift-/blob/main/move.gif" width ="500" height ="320" /></p>
+<p><img align ="left" alt = "gif" trsc ="https://github.com/nguyenvietlam0640/gift-/blob/main/move.gif" width ="500" height ="320" /></p>
 
 * ***Snake eats the food and increases length***
-<p><img align ="right" trsc ="https://github.com/nguyenvietlam0640/gift-/blob/main/eat.gif" width ="500" height ="320" /></p>
+<p><img align ="left" alt ="gif" trsc ="https://github.com/nguyenvietlam0640/gift-/blob/main/eat.gif" width ="500" height ="320" /></p>
 
 * ***Game over***
-<p><img align ="right" trsc ="https://github.com/nguyenvietlam0640/gift-/blob/main/gameover.gif" width ="500" height ="320" /></p>
-
+<p><img align ="left" alt = "gif" trsc ="https://github.com/nguyenvietlam0640/gift-/blob/main/gameover.gif" width ="500" height ="320" /></p>
 
 **_PEACE!!_**
