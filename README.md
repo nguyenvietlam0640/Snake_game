@@ -18,18 +18,8 @@ This is a simple Python language snake game.
 
 > The snake game uses Tkinter library to create GUI so that
 > game can interacts with user and runs properly.
-
+* **
 ## Demo 
-* **
-![](https://github.com/nguyenvietlam0640/gift-/blob/main/move.gif)
-* ***Snake moves in four directions***
 
-* **
-![](https://github.com/nguyenvietlam0640/gift-/blob/main/eat.gif)
-* ***Snake eats the food and increases length***
-
-* **
-![](https://github.com/nguyenvietlam0640/gift-/blob/main/gameover.gif)
-* ***Game over***
 * **
 **_--------------------------------------------- THE END ----------------------------------------_**
