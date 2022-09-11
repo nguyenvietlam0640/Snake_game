@@ -18,8 +18,9 @@ This is a simple Python language snake game.
 
 > The snake game uses Tkinter library to create GUI so that
 > game can interacts with user and runs properly.
-* **
+
 ## Demo 
+![all](https://user-images.githubusercontent.com/106436992/189520937-e6f7ba55-65e3-41cc-b498-dee7c6bed1b3.gif)
 
 * **
 **_--------------------------------------------- THE END ----------------------------------------_**
